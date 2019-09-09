@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm", "WebForm\WebForm.csproj", "{69F7C2AD-54BF-4D76-8685-B12F40D645BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormLibrary", "WebFormLibrary\WebFormLibrary.csproj", "{0D98210E-214C-493E-AE50-594799E22C46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F7C2AD-54BF-4D76-8685-B12F40D645BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F7C2AD-54BF-4D76-8685-B12F40D645BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F7C2AD-54BF-4D76-8685-B12F40D645BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F7C2AD-54BF-4D76-8685-B12F40D645BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D98210E-214C-493E-AE50-594799E22C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D98210E-214C-493E-AE50-594799E22C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D98210E-214C-493E-AE50-594799E22C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D98210E-214C-493E-AE50-594799E22C46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2BA9BF4-412F-4A8A-9D53-C4712EBC8AF0}
+	EndGlobalSection
+EndGlobal
